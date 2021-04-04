@@ -1,7 +1,8 @@
 # LOCK YOU
 
-** termux lock **
-** protect your termux **
+## termux lock 
+
+## protect your te##ux
 
 
 * **open your termux**
@@ -11,7 +12,7 @@
 * `bash start.sh`
 
 
-## if chainge or delet lock 
+### if chainge or delet lock 
 * `python reset.py`
 ---
 [Facebook](https://www.facebook.com/akhil.r.k.372 "facebook")
