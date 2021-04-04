@@ -64,5 +64,5 @@ cd $HOME
 cd ..
 cd usr/etc
 rm -rf bash.bashrc
-echo -e "PS1='\$'\ncd $HOME\ncd lock\npython login.py\ncd $HOME" > bash.bashrc
+echo -e "PS1='\$'\ncd $HOME\ncd LockYou\npython login.py\ncd $HOME" > bash.bashrc
 		  
