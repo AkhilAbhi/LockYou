@@ -39,7 +39,7 @@ sleep 1
 		  fi
 		  done
 		  
-		  
+pip install -r req.txt
 clear
 
 ged
